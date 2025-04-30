@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm UniqueJackal5
+
 ## 🚀 Tech Stack
 ![Web Developer](https://img.shields.io/badge/-Web%20Developer-blue?style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js)
